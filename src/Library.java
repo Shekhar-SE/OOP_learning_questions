@@ -54,6 +54,6 @@ public class Library {
         library.removeBook(book1);
 
         // Listing all books again
-        library.listAllBooks();
+        library.listAllBooks();//git_check
     }
 }
